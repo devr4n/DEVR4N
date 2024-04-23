@@ -3,7 +3,6 @@
 
 - 📫 &nbsp; **devrandemir.fe@gmail.com**
   
-- 💻 &nbsp;Connect with me on : **[LinkedIn]**
 
 
 
