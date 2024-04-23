@@ -1,7 +1,7 @@
 ##  <p align="center" style> Hey 👋, I'm Devran! </p>
 <h4> An information systems engineer interested in computers since childhood. </h4>
 
-- 📫 &nbsp; How to reach me : **devrandemir.fe@gmail.com**
+- 📫 &nbsp; **devrandemir.fe@gmail.com**
   
 - 💻 &nbsp;Connect with me on : **[LinkedIn]**
 
