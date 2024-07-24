@@ -1,5 +1,5 @@
 ##  <p align="center" style> Hey 👋 I'm Devran! </p>
-<h4> An information systems engineer interested in computers since childhood. </h4>
+<h4> An Information Systems Engineer interested in computers since childhood. </h4>
 
 - 📫 &nbsp; **devrandemir.fe@gmail.com**
   
