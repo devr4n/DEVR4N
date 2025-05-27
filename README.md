@@ -1,13 +1,6 @@
 ##  <p align="center" style> Hey 👋 I'm Devran! </p>
 <h4> An Information Systems Engineer interested in computers since childhood. </h4>
 
-- 📫 &nbsp; **devrandemir.fe@gmail.com**
-  
-
-
-
-
-
 <h3>Tech Stack 👾</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NextJs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
